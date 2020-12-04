@@ -26,11 +26,11 @@ const Index = ({ data }) => {
     <Layout menuLinks={indexMenuLinks}>
       <SEO title="Home" />
       <Hero data={heroData} />
-      <Facts/>
-      <About data={data.about} />
-      <CardGrid cards={data.cards.frontmatter.cards} description={data.cards.html} title="Our Features" id="features" />
-      <FeaturedProjects featured={data.featuredProjects.nodes} />
+      {/* <Facts/> */}
+      {/* <FeaturedProjects featured={data.featuredProjects.nodes} /> */}
       <RecentPosts data={data.blog.edges} />
+      <About data={data.about} />
+      {/* <CardGrid cards={data.cards.frontmatter.cards} description={data.cards.html} title="Our Features" id="features" /> */}
       <Contact data={data.contact} />
     </Layout>
   );

@@ -1,11 +1,11 @@
 export const indexMenuLinks = [
   {
-    name: 'About',
+    name: 'Sobre',
     link: '/#about',
     icon: 'user-tie',
   },
   {
-    name: 'Projects',
+    name: 'Projectos',
     link: '/#projects',
     icon: 'terminal',
   },
@@ -15,7 +15,7 @@ export const indexMenuLinks = [
     icon: 'feather-alt',
   },
   {
-    name: 'Contact',
+    name: 'Contacto',
     link: '/#contact',
     icon: 'envelope',
   },

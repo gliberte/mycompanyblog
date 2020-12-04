@@ -31,7 +31,7 @@ const About = ({ data }) => {
 
   return (
     <StyledSection id="about">
-      <StyledH1>About Me</StyledH1>
+      <StyledH1>Sobre me</StyledH1>
       <StyledAboutContainer>
         {image && (
           <StyledStaticImageContainer>

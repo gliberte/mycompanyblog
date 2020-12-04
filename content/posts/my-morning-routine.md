@@ -1,7 +1,7 @@
 ---
 title: My morning routine
 date: 2020-03-31
-published: true
+published: false
 tags: ['Breakfast', 'Lifehack', 'Markdown']
 series: false
 cover_image: ./images/breakfast.jpg

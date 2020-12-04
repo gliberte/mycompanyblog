@@ -105,10 +105,10 @@ const RecentPosts = ({ data }) => {
 
   return (
     <StyledSection id="blog">
-      <StyledH1>Latest Blog Posts</StyledH1>
+      <StyledH1>Entradas más recientes</StyledH1>
       <StyledPostsContainer>{recentPosts}</StyledPostsContainer>
       <StyledBlogLinkContainer>
-        <TextLink label="View All Posts" link="/blog" />
+        <TextLink label="Ver todas las entradas de blog" link="/blog" />
       </StyledBlogLinkContainer>
     </StyledSection>
   );

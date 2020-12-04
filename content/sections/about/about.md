@@ -1,11 +1,9 @@
 ---
-title: 'The Gatsby starter that makes developer dreams come true!'
+title: 'Sobre me'
 about_image: './me.jpg'
-techs: ['Gatsby', 'Javascript', 'React', 'GraphQL', 'Emotion', 'Stylus']
+techs: ['Gatsby', 'Javascript', 'React', 'GraphQL', 'Netlify', 'Flutter','React Native','Dart']
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas sit amet arcu tincidunt fermentum. Mauris ac nisl nibh. Etiam nunc eros, blandit vel eros laoreet, accumsan lacinia turpis.
+Soy analista SIG progrmador en Barraza y Cia. Pertenezco al departamente IT. Soy el responsable de los sistemas integrados MapSales - Barraza Móvil. Gestiono las capas de datos geográficos que soportan los procesos de análisis geográficos de ventas y logística de ventas territoriales a nivel naional.
 
-Phasellus ut sagittis eros. Curabitur quis libero consequat, iaculis dolor sollicitudin, ultricies ligula. Donec sodales sed ex a fermentum. Quisque vitae efficitur odio, non aliquam sapien.
-
-Proin egestas luctus ornare. Donec maximus est lobortis, pharetra dolor in, convallis lorem. Duis ut erat in lectus faucibus iaculis. In tincidunt laoreet ante, vel pellentesque risus lacinia eu.
+Trabajo en Barraza y Cia desde 2009. Fui contratado para hacerme cargo de los Sistemas de Información Geográfico. Tengo una licenciatura en Matemáticas por la Universidad de Panamá. También soy programador en JavaScript y plataformas móviles (Android e IOS). Pertenezco al departamente de IT y estoy bajo la supervisión de la lic. Yariela Saucedo. 

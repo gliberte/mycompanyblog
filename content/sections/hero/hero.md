@@ -1,10 +1,8 @@
 ---
-introduction: "hey it's me"
-tagline: 'Design. Code. Experiment'
+introduction: "Hola,"
+tagline: 'Diseño. Codigo. Experimetación. GIS'
 cta_label: 'View Documentation'
 cta_link: 'https://github.com/Knochenmark/gatsby-starter-level-2/blob/master/README.md'
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-sed diam nonumy eirmod tempor invidunt ut labore
-et dolore magna aliquyam erat, sed diam voluptua.
+Un espacio para actualizar en los temas de desarrollo en inteligencia de negocios GIS, logística de ventas y movilidad de datos. Integraciones y soporte IT en aplicaciones (Barraza Móvil, MapSales).
