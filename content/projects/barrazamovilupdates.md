@@ -2,7 +2,7 @@
 featured: true
 date: '2020-12-04'
 title: 'Barraza Movil'
-cover_image: './images/logobm.jpg'
+cover_image: './images/logobm.png'
 repo_link: 'https://github.com/gliberte/barraza_movil'
 techs: ['React Native', 'Expo','JavaScript']
 ---
