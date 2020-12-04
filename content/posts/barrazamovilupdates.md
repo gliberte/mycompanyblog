@@ -1,7 +1,7 @@
 ---
 date: 2020-12-04
 title: 'Actualización en Barraza Movil'
-tags: ['React Native', 'JavaScript', 'GIS']
+tags: ['ReactNative', 'JavaScript', 'GIS']
 published: true
 cover_image: ./images/logobm.png
 canonical_url: false
@@ -17,6 +17,7 @@ Mi trabajo mas reciente consistió en migrar profundamente el código fuente al 
 El cambio más relevante a partir de ahora será el método de distribución de la aplicación en producción: se generará un apk que podrá ser instalado remotamente mediante Scalefusion. Esto significa que Barraza Móvil se ejecutará nativamente y de manera independiente. No se requerirá Expo para tal efecto.
 
 Por otro lado, el siguiente proyecto en la línea de Barraza Móvil es rediseñar, recodificar y reconstruir enteramente Barraza Móvil utilizando una nueva y novedosa plataforma de desarrollo denominada Flutter (https://flutter.dev/). El objetivo de este proyecto de migración es crear una aplicación que tendrá mejores aspectos de diseño, rendimiento y optimización, interfaz de usuario mejorada y tendrá completa compatibilidad con dispositivos y sistemas operativos recientes. Flutter es una tecnología de desarrollo multiplataforma creada por Google. Esto dará lugar a futuros proyectos interesantes tales como: recreación de MapSales como aplicación nativa para dispositivos con Android e iOS desarrollado en Flutter.
+
 
 
 
